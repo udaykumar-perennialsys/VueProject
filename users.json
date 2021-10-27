@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "uday@gmail.com",
+      "name": "Uday Kumar",
+      "password": "987456",
+      "id": 1
+    },
+    {
+      "email": "udaykumar@gmail.com",
+      "name": "uday kumar",
+      "password": "987456",
+      "id": 2
+    },
+    {
+      "email": "rohitkumar@gmail.com",
+      "name": "Rohit Kumar",
+      "password": "uday",
+      "id": 3
+    },
+    {
+      "email": "ramendra@gmail.com",
+      "name": "ramendra",
+      "password": "963852",
+      "id": 4
+    }
+  ]
+}
